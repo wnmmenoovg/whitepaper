@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: /sitemap.xml.gz
+Sitemap: https://snailtrailgame.github.io/whitepaper/sitemap.xml.gz
