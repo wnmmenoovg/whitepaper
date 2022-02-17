@@ -3,7 +3,7 @@ label: Token
 order: 1
 ---
 
-Snail Trail has a **single** native token. Tokens will be rewarded to users through in-game mechanics and players will be able use these tokens on several mechanics.
+Snail Trail has a **single** native ERC-20 compliant token. Tokens will be rewarded to users through in-game mechanics and players will be able use these tokens on several mechanics.
 
 ### Utility
 
@@ -29,7 +29,7 @@ Tokens can be used while using below mechanics:
 |    Type   |             Unlock Plan         |
 |:---------:|:--------------------------------------------------------:|
 |  Private  | 10% TGE, 18 month vest(6 month cliff, quarterly release) |
-|   Public  |         0% at TGE(6 months vest, monthly release)        |
+|   Public  |         25% at TGE(6 months vest, monthly release)        |
 |    Team   |     2 years vest (12 month cliff, quarterly release)     |
 |  Advisors |     2 years vest (12 month cliff, quarterly release)     |
 | Liquidity |                        100% at TGE                       |
@@ -45,11 +45,11 @@ Tokens can be used while using below mechanics:
 * Half of the rewards will be distributed with in-game play-to-earn concepts for the first two years with respect to below table.
 * Remaining half will be used for Tournaments, Seasonal Rewards, Bonuses, Future Game Modes, Failsafe Mechanisms and Upcoming Years.
 * Below table is targeted emission amounts and might change with respect to in-game demands and activity.
-* Reward per daily missions (or any other future reward distributing mechanisms) are calculated to achieve the below targets. 
+* Rewards per daily missions (or any other future reward distributing mechanisms) are calculated and will be distributed to achieve the below emission targets. 
 
 ![](../static/token_rewards_emission.png)
 
-|   Month  | Targeted Emissions per Month | Cumulative Emissions |
+|   Month  | Targeted Rewards Emissions per Month | Cumulative Rewards Emissions |
 |:--------:|:----------------------------:|----------------------|
 | Month 1  |                 4,890,000 |         4,890,000 |
 | Month 2  |                 4,710,000 |         9,600,000 |

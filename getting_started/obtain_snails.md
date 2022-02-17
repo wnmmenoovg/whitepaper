@@ -13,7 +13,7 @@ These features will be available soon. The game is not released yet.
 - Buy from the instant sales.
 
 ### NFT Marketplaces
-The NFT Marketplaces available on the Avalanche ecosystem might have snails listed. 
+The NFT Marketplaces available on the Avalanche ecosystem might have snails listed.
 
 ### Genesis Claim
 - Head to the [Snail Trail website.](https://snailtrail.art/)

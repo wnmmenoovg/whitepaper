@@ -1,7 +1,7 @@
 ---
 expanded: false
 label: Rank System
-order: 1
+order: 3
 ---
 Each snail is placed into a League after playing 5 placement races. Leagues are determined by the ELO Ranking System.
 
