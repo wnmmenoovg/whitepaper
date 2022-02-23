@@ -9,18 +9,17 @@ Snail Trail will have an in-game shop that will offer various cosmetic items suc
 
 ### Banners
 
-Banners will be carried by attached snail during races with an embedded NFT image. User will be able to select partnered NFT projects' NFTs as banner image.
+Banners will be carried by attached snail during races with an embedded NFT image. User will be able to customize banner image with an NFT image from their wallet. Only partnered projects will be available for this feature.
 
 ### Scrolls
 
 Various scrolls will be available in the shop.
 
-|    Type   |
-|:---------:|
+|    Scroll   |
+|---------|
 |  Name Change Scroll  |
 |   Adaptation Reroll Scroll  |
 |    Visual Reroll Scroll   |
-|  Visual+ Reroll Scroll |
 
 ### Emotes
 
@@ -28,7 +27,7 @@ Emotes can be used during races to flex against your opponents.
 
 ### Sprays
 
-Sprays can be used during races.
+Sprays can be used during races to show off the spirit.
 
 ### Trails
 
