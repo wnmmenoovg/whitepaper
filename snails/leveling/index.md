@@ -11,8 +11,8 @@ Each snail starts from **Level 1** and gains experience with participating in-ga
 
 | Level |     Required Experience per Level   |
 |:-----:|:--------------------------:|
-|  2-10 |           $$100$$ XP           |
-|  11+  | $$100 + (Level - 10) * 25$$ XP |
+|  2-10 |           $$250$$ XP           |
+|  11+  | $$250 + (Level - 10) * 100$$ XP |
 
 ### Experience
 
@@ -30,16 +30,9 @@ Each snail starts from **Level 1** and gains experience with participating in-ga
 
 | Level |                        Perks                       |
 |:-----:|:--------------------------------------------------:|
-|  2-9  | 1 Daily Mission Ticket <br>(Does not trigger the cooldown) |
-|   10  |              Unlock Second Adaptation Slot               |
-|   15  |                Visual Reroll Scroll               |
+|  5  | Unlock Second Adaptation Slot |
+|   10  |   Adaptation Potion Reroll          |
+|   15  |              Unlock Third Adaptation Slot |               
 |   20  |                 Name Change Scroll                 |
-|   25  |              Unlock Third Adaptation Slot               |
-|   30  |          Adaptation Potion Reroll Scroll          |
-|   40  |            Cosmetic: Random Trail Effect           |
-|   50  |            10% Breeding Discount Scroll            |
-|   60  |                Visual Reroll Scroll               |
-|   70  |          Adaptation Potion Reroll Scroll          |
-|   80  |            Cosmetic: Random Trail Effect           |
-|   90  |                 Name Change Scroll                 |
-|  100  |          100 Daily Mission Tickets Tokens  <br>(Does not trigger the cooldown)        |
+|   25  |              Visual Reroll Scroll             |
+
