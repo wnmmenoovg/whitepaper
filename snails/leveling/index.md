@@ -31,8 +31,8 @@ Each snail starts from **Level 1** and gains experience with participating in-ga
 | Level |                        Perks                       |
 |:-----:|:--------------------------------------------------:|
 |  5  | Unlock Second Adaptation Slot |
-|   10  |   Adaptation Potion Reroll          |
+|   10  |   Adaptation Potion Reroll (x1)         |
 |   15  |              Unlock Third Adaptation Slot |               
-|   20  |                 Name Change Scroll                 |
-|   25  |              Visual Reroll Scroll             |
+|   20  |                 Name Change (x1)                |
+|   25  |              Visual Reroll (x1)             |
 

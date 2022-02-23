@@ -1,6 +1,6 @@
 ---
 label: Token
-order: 1
+order: 5
 ---
 
 Snail Trail has a **single** native ERC-20 compliant token. Tokens will be rewarded to users through in-game mechanics and players will be able use these tokens on several mechanics.
