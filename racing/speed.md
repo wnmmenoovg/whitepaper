@@ -10,10 +10,10 @@ Each snail have the following traits that affect its racing performance:
 |        Trait        |           Importance           |    How to target?    |
 |:-------------------:|:------------------------------:|:--------------------:|
 |    Family & Genes   | :star::star::star::star::star: | Reproduction Systems |
-| Genome Coefficients |    :star::star::star::star:    |        Random        |
 |        Purity       |    :star::star::star::star:    | Reproduction Systems |
 |     Adaptations     |    :star::star::star::star:    |    Decision Making   |
-|   Trail Preference  |       :star::star::star:       |    Decision Making   |
+|   Trail Preference  |    :star::star::star::star:    |    Decision Making   |
+| Genome Coefficients |       :star::star::star:       |        Random        |
 |        Class        |          :star::star:          | Reproduction Systems |
 |      Generation     |             :star:             | Reproduction Systems |
 

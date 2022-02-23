@@ -2,13 +2,13 @@
 label: Adaptation
 order: 1
 ---
-Each snail adapts in a unique way to its environment. However, this does not mean that a H**umid Adaptive Snail** never performs well in **Dry** conditions. On average it achieves better results in humid conditions than in any of the other environments.
+Each snail adapts in a unique way to its environment. However, this does not mean that a **Cold Adaptive Snail** never performs well in **Hot** conditions. On average it achieves better results in cold conditions than in any of the other environments.
 
 | Category  | Adaptations                                                                    |
 |-----------|--------------------------------------------------------------------------------|
-| Landscape | Desert, Plain, Tundra, Wetland, Mountain, Cliff, Coast, Glacier, Forest, Space |
-| Weather   | Humid, Dry, Hot, Cold, Wind, Wet, Snow, Storm, Breeze                          |
-| Athletics | Slide, Jump, Roll, Hide, Fight                                                 |
+| Landscape | Desert, Mountain, Beach, Glacier, Forest, Space |
+| Weather   | Hot, Cold, Wind, Wet, Snow, Storm                          |
+| Athletics | Slide, Jump, Roll, Dodge                                   |
 
 * At birth, each snail has only 1 adaptation.
 * Throughout life, a snail can adapt to a total of up to 3 different environments. Increasing adaptation is possible with Adaptation Potion.

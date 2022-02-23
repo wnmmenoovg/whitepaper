@@ -20,6 +20,14 @@ Snails can belong to one of 5 different families.
 
 Family genes are ordered from recessive to dominant which means **Atlantis (X)** is the rarest one while **Garden (G)** is the most common. Even though Genesis Genomes are not purebred, snails might evolve into purebreds through the reproduction process if they have 20 times the same gene. 
 
+---
+
+### Purity
+
+Purity is an indicator that shows the count of most common gene in snail's genetic sequence. Purity for a snail can be 4 at minimum and 20 at maximum. 
+* For example; every Genesis Snail's purity is 11.
+
+---
 
 #### If an offspring snail receives the two most common genes, which family would it belong to?
 The snail will belong to the family which has the most dominant gene. Let's take a look at an example. If a snail has a 4X + 4A + 4M + 4H + 4G distribution in its genome, then it will belong to the Garden(G).

@@ -31,25 +31,26 @@ Roadmaps are fun. It is a nice way to show what team is cooking for the future. 
 - [ ] Breeding Contract
 - [ ] Breeding Launch
 
-
 ## Q2 2022
+- [ ] Beta Season Start
 - [ ] SURPRISE (Non game related announcement)
+- [ ] In-Game Shop
 - [ ] Isometric(3D) View for Racing
 - [ ] VRF Integration
   - [ ] Laboratory Contract
   - [ ] Laboratory Launch
-- [ ] Talent System
+- [ ] Talent System (Placeholder name)
 - [ ] Microwave Launch
 - [ ] Tournaments
-- [ ] SURPRISE (Game Related Announcement)
 
 ## Q3 2022
+- [ ] SURPRISE (Game Related Announcement)
 - [ ] Battleground Mode
-- [ ] Death-match Mode
 - [ ] Renting
 - [ ] Mobile Integration
 
-## Q4 2022
+## Q4 2022 and Beyond
+- [ ] Death-match Mode
 - [ ] Staking
 - [ ] Governance
 - [ ] WORLD DOMINATION!

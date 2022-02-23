@@ -15,11 +15,11 @@ Banners will be carried by attached snail during races with an embedded NFT imag
 
 Various scrolls will be available in the shop.
 
-|    Scroll   |
-|---------|
-|  Name Change Scroll  |
-|   Adaptation Reroll Scroll  |
-|    Visual Reroll Scroll   |
+|    Scroll   | Description |
+|---------| ------|
+|  Name Change Scroll  | User can change the name of applied snail |
+|   Adaptation Reroll Scroll  | User can re-roll existing adaptation potion to another one |
+|    Visual Reroll Scroll   | User can re-roll the visuals of a snail.<br/> Since family is a racing trait body type will remain same. |
 
 ### Emotes
 
