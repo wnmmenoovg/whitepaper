@@ -29,11 +29,11 @@
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("/whitepaper/doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="/whitepaper/static/fav_icon_tran.png" rel="icon" />
-    <link href="/whitepaper/resources/css/retype.css?v=1.11.2.699156648677" rel="stylesheet" data-turbo-track="reload" />
+    <link href="/whitepaper/resources/css/retype.css?v=1.11.2.699156784494" rel="stylesheet" data-turbo-track="reload" />
 
-    <script type="text/javascript" src="/whitepaper/resources/js/config.js?v=1.11.2.699156648677" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/whitepaper/resources/js/config.js?v=1.11.2.699156784494" defer data-turbo-track="reload"></script>
     <script type="text/javascript" src="/whitepaper/resources/js/retype.js?v=1.11.2" defer data-turbo-track="reload"></script>
-    <script id="lunr-js" type="text/javascript" src="/whitepaper/resources/js/lunr.js?v=1.11.2.699156648677" defer></script>
+    <script id="lunr-js" type="text/javascript" src="/whitepaper/resources/js/lunr.js?v=1.11.2.699156784494" defer></script>
     <link href="/whitepaper/resources/css/katex.css?v=1.11.2" rel="stylesheet" />
     <script id="katex-js" type="text/javascript" src="/whitepaper/resources/js/katex.js?v=1.11.2" defer></script>
 </head>
@@ -299,7 +299,7 @@ If the population is 7500, then mean targeted growth amount for a month is 1500 
 <div class="math"><pre>\displaystyle PC_{next}= \begin{cases} {PC_{current} * (1 + \dfrac{0.1}{T})},&amp; \text{} BreedingEvent\\ PC_{current} * 0.9,              &amp; \text{if BreedCount}_{daily} \lt T  \end{cases}</pre></div>
 <ul>
 <li>If a breeding event happens, protocol coefficient for the next breeding event is increases slightly which also means <span class="math">T</span> cumulative breeding event is nearly equal to 10% increase in total.</li>
-<li>If in a single day, the amount of breeding event stays under the threshold value T, then PC decreases by 10%.</li>
+<li>If in a single day, the amount of breeding event stays under the threshold value <span class="math">T</span>, then <span class="math">PC</span> decreases by 10%.</li>
 <li>Days are calculated with respect to GMT timezone.</li>
 </ul>
    </doc-panel>
