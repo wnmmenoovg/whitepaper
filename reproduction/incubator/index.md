@@ -4,28 +4,42 @@ label: Incubator
 order: 2
 ---
 
-Snails are **hermaphrodites**. However, they still need a mate to repopulate. On the incubator page, you can either
-* Register as a male and donate your genome to the Gene Market.
-* Register as a female and select to buy a genome from the Gene Market to start breeding.
-  
-!!!info
-In each incubation period, a snail can change its registered gender. However, once it is selected, it cannot change its gender preference until the next incubation period.
-!!!
+## Gender
+Snails are **hermaphrodites** and they can use their reproduction systems however they like. In Snail Trail; 
+* Each snail is born without a defualt gender. 
+* Players can assign a gender to their snails or change the gender of their snails.
+* Once a gender is registered, it cannot be changed for 30 days.
 
-Owners can incubate their snails once a month. In each incubation period:
-* A male can donate a genome once. Donated genomes can be sold three times on the Gene Market. 
+![](../../static/view_select_gender.png)
+
+---
+## Incubation
+
+On the ![](../../static/menu_incubation.png) page, player can either;
+
+* Provide both a male and a female snail from their inventory, or
+* Provide a female snail and buy a genome of another male from Gene Market to start breeding.
+![](../../static/page_incubation.png)
+
+
+Owners can breed with their snails **once a month**. In each breed period:
+* A **male** can donate a genome once. Donated genome can be sold three times on the **Gene Market**. 
   * After the genome donation, there will be a 30-day cooldown period before the next one starts.
-* A female can lay eggs once. The eggs hatch 1 day after incubation. 99.9% of the time only one snail hatches from an egg, but with a 0.1% chance, there might be twins.
-    * After fertilization, there will be a 30-day cooldown period before the next one starts.
+* A **female** can lay eggs once. 
+  * The eggs hatch instantly, no waiting period. 
+  * 99.9% of the time only one snail hatches from an egg, but with a 0.1% chance, there might be twins.
+  * After fertilization, there will be a 30-day cooldown period before the next one starts.
+---
+## Simulation
 
+Once two snails are in place, players can use **Simulate** button to see probability of possibile offspring.
+
+![](../../static/page_incubation_filled.png)
+
+---
 
 #### How long does a newborn have to wait for incubation?
-A newborn cannot reproduce until its 30th day on Earth. For the first 30 days, both Donate and Select options will not be available.
-
-#### Do crafted snails have to wait for incubation?
-A crafted snail can breed instantly if both of the below conditions apply.
-Generated from at least 5 snails.
-At least 2 out of the 5 snails must be available to breed in that month.
+A newborn cannot reproduce until its 30th day on Earth.
 
 #### Does an evolved snail have to wait for incubation?
-If the snail did not use its breeding right for the current cycle, then it can incubate in the current cycle.
+If the snail did not use its breeding right for the current cycle, then it can breed in the current cycle.
