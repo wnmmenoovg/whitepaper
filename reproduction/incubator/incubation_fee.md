@@ -60,7 +60,7 @@ $$
 $$
 
 * If a breeding event happens, protocol coefficient for the next breeding event is increases slightly which also means $T$ cumulative breeding event is nearly equal to 10% increase in total.
-* If in a single day, the amount of breeding event stays under the threshold value T, then PC decreases by 10%.
+* If in a single day, the amount of breeding event stays under the threshold value $T$, then $PC$ decreases by 10%.
 * Days are calculated with respect to GMT timezone.
 
 ===
