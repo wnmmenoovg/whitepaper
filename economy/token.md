@@ -33,7 +33,7 @@ Tokens can be used while using below mechanics:
 |    Team   |     2 years vest (12 month cliff, quarterly release)     |
 |  Advisors |     2 years vest (12 month cliff, quarterly release)     |
 | Liquidity |                        100% at TGE                       |
-|   Reward  |                See: Rewards Emission Table               |
+|   Reward  |                See: Rewards Emission                     |
 
 ---
 
