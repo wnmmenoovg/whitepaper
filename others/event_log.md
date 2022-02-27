@@ -10,4 +10,4 @@ Here are some of the events that Snail Trail Team participated.
 - [ ] `03/Mar/2022` - AMA with ****
 - [ ] `TBA` - AMA with *******
 - [ ] `TBA` - AMA with *********
-- [ ] `22/Mar/2022` - Avalanche Barcelona Summit (Speaker)
+- [ ] `22/Mar/2022` - Avalanche Barcelona Summit
