@@ -17,12 +17,12 @@ To complete an incubation process, player has to pay the required fees that are 
 
 Incubation fee is dynamic and will be shown to users during incubation. There are several factors that can affect the Incubation fee:
 
-* Genes of Female Snail
+* Genes of Male & Female Snail
 * Breed Counts (Male + Female)
 * Protocol Coefficient
 
 $$
-IncubationFee =\sum_{i=1}^{20} {gene_i} * (BreedCount)_{snail} * (ProtocolCoefficient)
+IncubationFee =\sum_{i=1}^{20} ({MaleGene}_{i}+{FemaleGene}_{i}) * (1 + 0.1 * BreedCount_{male+female} ) * (ProtocolCoefficient)
 $$
 
 ==- **Genes**
@@ -67,11 +67,4 @@ $$
 ---
 ## Male Genome Price
 
-Male genome price is calculated with respect to;
-
-* Genes of Male Snail
-* Protocol Coefficient
-
-$$
-Male Genome Price =\sum_{i=1}^{20} {gene_i} * (ProtocolCoefficient * 0.2)
-$$ 
+Male genome price is determined by the sellers on the market.
