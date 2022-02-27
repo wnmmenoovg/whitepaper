@@ -29,11 +29,11 @@
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("/whitepaper/doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="/whitepaper/static/fav_icon_tran.png" rel="icon" />
-    <link href="/whitepaper/resources/css/retype.css?v=1.11.2.699156784494" rel="stylesheet" data-turbo-track="reload" />
+    <link href="/whitepaper/resources/css/retype.css?v=1.11.2.699281484182" rel="stylesheet" data-turbo-track="reload" />
 
-    <script type="text/javascript" src="/whitepaper/resources/js/config.js?v=1.11.2.699156784494" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/whitepaper/resources/js/config.js?v=1.11.2.699281484182" defer data-turbo-track="reload"></script>
     <script type="text/javascript" src="/whitepaper/resources/js/retype.js?v=1.11.2" defer data-turbo-track="reload"></script>
-    <script id="lunr-js" type="text/javascript" src="/whitepaper/resources/js/lunr.js?v=1.11.2.699156784494" defer></script>
+    <script id="lunr-js" type="text/javascript" src="/whitepaper/resources/js/lunr.js?v=1.11.2.699281484182" defer></script>
     <link href="/whitepaper/resources/css/katex.css?v=1.11.2" rel="stylesheet" />
     <script id="katex-js" type="text/javascript" src="/whitepaper/resources/js/katex.js?v=1.11.2" defer></script>
 </head>
@@ -249,11 +249,11 @@
 </doc-anchor-target>
 <p>Incubation fee is dynamic and will be shown to users during incubation. There are several factors that can affect the Incubation fee:</p>
 <ul>
-<li>Genes of Female Snail</li>
+<li>Genes of Male &amp; Female Snail</li>
 <li>Breed Counts (Male + Female)</li>
 <li>Protocol Coefficient</li>
 </ul>
-<div class="math"><pre>IncubationFee =\sum_{i=1}^{20} {gene_i} * (BreedCount)_{snail} * (ProtocolCoefficient)</pre></div>
+<div class="math"><pre>IncubationFee =\sum_{i=1}^{20} ({MaleGene}_{i}+{FemaleGene}_{i}) * (1 + 0.1 * BreedCount_{male+female} ) * (ProtocolCoefficient)</pre></div>
 <doc-panels>
    <doc-panel id="genes" collapsed>
        <template #title><strong>Genes</strong></template>
@@ -311,12 +311,7 @@ If the population is 7500, then mean targeted growth amount for a month is 1500 
         <span>Male Genome Price</span>
     </h2>
 </doc-anchor-target>
-<p>Male genome price is calculated with respect to;</p>
-<ul>
-<li>Genes of Male Snail</li>
-<li>Protocol Coefficient</li>
-</ul>
-<div class="math"><pre>Male Genome Price =\sum_{i=1}^{20} {gene_i} * (ProtocolCoefficient * 0.2)</pre></div>
+<p>Male genome price is determined by the sellers on the market.</p>
 
 
 
